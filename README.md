@@ -1,5 +1,5 @@
 # Social Constellation 🌟
-## Swift Student Challenge 2025 - App Playground
+## Swift Student Challenge 2026 - App Playground
 
 Transform your relationships into a living galaxy where each person becomes a star.
 
