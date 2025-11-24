@@ -61,5 +61,3 @@ To prepare for submission:
 - **Creative**: Galaxy visualization metaphor
 - **Impact**: Addresses relationship maintenance problem
 - **Polish**: Attention to visual details
-
-Good luck with your submission! 🚀
